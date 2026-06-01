@@ -1,4 +1,4 @@
-<img width="1323" height="800" alt="ima" src="https://github.com/user-attachments/assets/d91558d1-cca1-4b9f-b2d1-e42894214f28" />
+<img width="1323" height="800" alt="wmremove-transformed" src="https://github.com/user-attachments/assets/9121e964-a44a-4eeb-a4b1-463cb82336c3" />
 
 🖥️ Supported operating systems  |   Windows 10 / Windows 11
 
