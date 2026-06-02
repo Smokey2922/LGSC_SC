@@ -1,4 +1,4 @@
-<img width="1304" height="752" alt="nnvzr7tc65rmw0cygr4agjwktc" src="https://github.com/user-attachments/assets/c05e17e7-2ba4-41d3-b0c1-47921c55c437" />
+<img width="1360" height="784" alt="Gemini_Generated_Image_tmgo8xtmgo8xtmgo(1)(1)" src="https://github.com/user-attachments/assets/7cac0e16-4939-48a6-9040-4737b780cedc" />
 # ⚡ Scanner
 
 <div align="center">
