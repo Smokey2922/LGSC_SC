@@ -1,4 +1,4 @@
-# ⚡ Scanner — Full Execution History
+# ⚡ Scanner
 
 <div align="center">
 
@@ -21,17 +21,10 @@
 
 ---
 
-## ✨ Features
+-----------------------
 
-| Feature | Description |
-|---|---|
 | 🔍 **Full Scan** | UserAssist, BAM, MUICache, Prefetch, Uninstall, RunKeys, Recent, PSHistory |
 | 🗑 **Delete Logs** | Remove specific entries from registry & Prefetch |
-| 🔐 **HWID Protection** | License tied to your hardware |
-| 🎨 **5 Themes** | Purple, Dark, Blue, Green, Light |
-| 📐 **5 Window Sizes** | Tiny to X-Large |
-| ⚡ **Fast** | Scans hundreds of entries in seconds |
-| 🛡 **Anti-VM** | Blocks virtual machines |
 
 ---
 
@@ -46,19 +39,16 @@
 
 ---
 
-## 🔑 Getting a License
+------------------------------------------------------------------
 
 1. Join our [Discord Server](https://discord.gg/7nRWvGRWER)
-2. Open `Scanner.exe` — it will show your **HWID**
-3. Send your HWID + Discord username in the server
-4. Receive your activation code
 
 ---
 
 ## 🖥 System Requirements
 
 - Windows 10 / 11 (64-bit)
-- Internet connection (for license verification)
+- Internet connection
 - Run as Administrator
 
 ---
@@ -69,7 +59,7 @@
 A: Scanner reads Windows registry and history — antivirus may flag it as suspicious. Add it to exclusions.
 
 **Q: Can I use it on multiple PCs?**
-A: No — each license is tied to one PC (HWID). Contact support to transfer.
+A: No — each license is tied to one PC
 
 **Q: How do I get support?**
 A: Join our [Discord](https://discord.gg/7nRWvGRWER).
