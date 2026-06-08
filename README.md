@@ -23,7 +23,7 @@
 
 -----------------------
 
-| 🔍 **Full Scan** | UserAssist, BAM, MUICache, Prefetch, Uninstall, RunKeys, Recent, PSHistory |
+| 🔍 **Full Scan** |  BAM, MUICache, Prefetch, Uninstall, RunKeys, Recent, PSHistory |
 | 🗑 **Delete Logs** | Remove specific entries from registry & Prefetch |
 
 ---
