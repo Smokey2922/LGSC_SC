@@ -7,9 +7,9 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
-**LGSC - File Scanner**
+**Scan your full execution history — even deleted files.**
 
-[📋Releases](https://github.com/eitan743583/LGSC_SC/releases) • [💬 Discord](https://discord.gg/7nRWvGRWER) • [📋 WEB](https://smokey2922.github.io/LGSC-Scanner/) • [⬇ Download](https://github.com/Smokey2922/LGSC_SC/releases/download/v1.0/Scanner.7z)
+[📋Releases](https://github.com/eitan743583/LGSC_SC/releases) • [💬 Discord](https://discord.gg/7nRWvGRWER) • [📋 WEB](https://smokey2922.github.io/LGSC-Scanner/) [⬇ Download ZIP](https://github.com/Smokey2922/LGSC_SC/releases/download/v1.1/Scanner.zip) • [⬇ Download EXE]([https://github.com/Smokey2922/LGSC_SC/releases/download/v1.1/Scanner.zip](https://github.com/Smokey2922/LGSC_SC/releases/download/v1.1/Scanner.exe))
 
 </div>
 
@@ -23,7 +23,7 @@
 
 -----------------------
 
-| 🔍 **Full Scan** |  BAM, MUICache, Prefetch, Uninstall, RunKeys, Recent, PSHistory |
+| 🔍 **Full Scan** | UserAssist, BAM, MUICache, Prefetch, Uninstall, RunKeys, Recent, PSHistory |
 | 🗑 **Delete Logs** | Remove specific entries from registry & Prefetch |
 
 ---
@@ -32,7 +32,7 @@
 
 > **Requires:** Windows 10/11 64-bit
 
-1. Download `LGSC.exe` from [Releases](../../releases/latest)  Or From [📋 WEB](https://smokey2922.github.io/LGSC-Scanner/)
+1. Download `LGSC.exe` from [Releases](../../releases/latest)  Or From [📋 WEB](https://eitan743583.github.io/LGSC-Scanner/)
 2. Run as Administrator
 3. Start using!
 
@@ -82,10 +82,5 @@ A: Join our [Discord](https://discord.gg/84R9as5pAW).
 
 <div align="center">
 
-**[Join Discord](https://discord.gg/84R9as5pAW)**
-
-
-**[Download]([https://github.com/eitan743583/LGSC_SC/releases/download/v1%2C.1/LGSC.exe](https://github.com/Smokey2922/LGSC_SC/releases/download/v1.0/Scanner.7z))**
-
-
+**[Join Discord](https://discord.gg/84R9as5pAW)**  •  **[Download](https://github.com/Smokey2922/LGSC_SC/releases/download/v1.1/Scanner.zip)** 
 </div>
