@@ -9,7 +9,7 @@
 
 **LGSC - File Scanner**
 
-[📋Releases](https://github.com/eitan743583/LGSC_SC/releases) • [💬 Discord](https://discord.gg/84R9as5pAW) • [📋 WEB](https://smokey2922.github.io/LGSC-Scanner/) • [⬇ Download ZIP](https://github.com/Smokey2922/LGSC_SC/releases/download/v1.1/Scanner.zip) • [⬇ Download EXE](https://github.com/Smokey2922/LGSC_SC/releases/download/v1.1/Scanner.exe)
+[📋Releases](https://github.com/eitan743583/LGSC_SC/releases) • [💬 Discord](https://discord.gg/qNBUQ5xBR3) • [📋 WEB](https://smokey2922.github.io/LGSC-Scanner/) • [⬇ Download ZIP](https://github.com/Smokey2922/LGSC_SC/releases/download/v1.1/Scanner.zip) • [⬇ Download EXE](https://github.com/Smokey2922/LGSC_SC/releases/download/v1.1/Scanner.exe)
 
 </div>
 
@@ -61,7 +61,7 @@ A: Scanner reads Windows registry and history — antivirus may flag it as suspi
 A: No — each license is tied to one PC
 
 **Q: How do I get support?**
-A: Join our [Discord](https://discord.gg/84R9as5pAW).
+A: Join our [Discord](https://discord.gg/qNBUQ5xBR3).
 
 ---
 
@@ -82,5 +82,5 @@ A: Join our [Discord](https://discord.gg/84R9as5pAW).
 
 <div align="center">
 
-**[Join Discord](https://discord.gg/84R9as5pAW)**  •  **[Download](https://github.com/Smokey2922/LGSC_SC/releases/download/v1.1/Scanner.zip)** 
+**[Join Discord](https://discord.gg/qNBUQ5xBR3)**  •  **[Download](https://github.com/Smokey2922/LGSC_SC/releases/download/v1.1/Scanner.zip)** 
 </div>
