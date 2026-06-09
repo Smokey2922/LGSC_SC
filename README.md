@@ -7,7 +7,7 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
-**LGSC - File Scanner**
+**LGSC - Files Scanner**
 
 [📋Releases](https://github.com/eitan743583/LGSC_SC/releases) • [💬 Discord](https://discord.gg/84R9as5pAW) • [📋 WEB](https://smokey2922.github.io/LGSC-Scanner/) • [⬇ Download ZIP](https://github.com/Smokey2922/LGSC_SC/releases/download/v1.1/Scanner.zip) • [⬇ Download EXE](https://github.com/Smokey2922/LGSC_SC/releases/download/v1.1/Scanner.exe)
 
