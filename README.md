@@ -17,15 +17,9 @@
 
 ## 📸 Preview
 
-> Scanner shows every file that ever ran on your PC — EXE, PY, PS1, BAT and more.
-
----
-
------------------------
-
-| 🔍 **Full Scan** | UserAssist, BAM, MUICache, Prefetch, Uninstall, RunKeys, Recent, PSHistory |
-| 🗑 **Delete Logs** | Remove specific entries from registry & Prefetch |
-
+> Scanner shows every file that ever ran on your PC — EXE, PY, PS1, BAT and more
+>
+> 
 ---
 
 ## 📥 Download
@@ -55,7 +49,7 @@
 ## ❓ FAQ
 
 **Q: Why does antivirus flag it?**
-A: Scanner reads Windows registry and history — antivirus may flag it as suspicious. Add it to exclusions.
+A: Scanner reads Windows Files and history — antivirus may flag it as suspicious. Add it to exclusions.
 
 **Q: Can I use it on multiple PCs?**
 A: No — each license is tied to one PC
