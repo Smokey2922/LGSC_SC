@@ -9,7 +9,7 @@
 
 **LGSC - Files Scanner**
 
-[📋Releases](https://github.com/eitan743583/LGSC_SC/releases) • [💬 Discord](https://discord.gg/84R9as5pAW) • [📋 WEB](https://smokey2922.github.io/LGSC-Scanner/) • [⬇ Download ZIP](https://github.com/Smokey2922/LGSC_SC/releases/download/v1.0/Scanner.zip)
+[📋Releases](https://github.com/eitan743583/LGSC_SC/releases) • [💬 Discord](https://discord.gg/84R9as5pAW) • [📋 WEB](https://smokey2922.github.io/LGSC-Scanner/) • [⬇ Download ZIP](https://github.com/Smokey2922/LGSC_SC/releases/download/v1.1/Scanner.zip)
 </div>
 
 ---
@@ -69,5 +69,5 @@ A: Join our [Discord](https://discord.gg/84R9as5pAW).
 
 <div align="center">
 
-**[Join Discord](https://discord.gg/84R9as5pAW)**  •  **[Download](https://github.com/Smokey2922/LGSC_SC/releases/download/v1.0/LGSC.zip)** 
+**[Join Discord](https://discord.gg/84R9as5pAW)**  •  **[Download](https://github.com/Smokey2922/LGSC_SC/releases/download/v1.1/LGSC.zip)** 
 </div>
