@@ -3,14 +3,13 @@
 
 <div align="center">
 
-![Scanner](https://img.shields.io/badge/Scanner-v2.0.0-B46FFF?style=for-the-badge&logo=windows&logoColor=white)
+![Scanner](https://img.shields.io/badge/Scanner-v1.1-B46FFF?style=for-the-badge&logo=windows&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 **LGSC - Files Scanner**
 
-[📋Releases](https://github.com/eitan743583/LGSC_SC/releases) • [💬 Discord](https://discord.gg/84R9as5pAW) • [📋 WEB](https://smokey2922.github.io/LGSC-Scanner/) • [⬇ Download ZIP](https://github.com/Smokey2922/LGSC_SC/releases/download/v1.0/Scanner.zip) • [⬇ Download EXE](https://github.com/Smokey2922/LGSC_SC/releases/download/v1.0/Scanner.exe)
-
+[📋Releases](https://github.com/eitan743583/LGSC_SC/releases) • [💬 Discord](https://discord.gg/84R9as5pAW) • [📋 WEB](https://smokey2922.github.io/LGSC-Scanner/) • [⬇ Download ZIP](https://github.com/Smokey2922/LGSC_SC/releases/download/v1.0/Scanner.zip)
 </div>
 
 ---
