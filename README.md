@@ -9,7 +9,7 @@
 
 **LGSC - Files Scanner**
 
-[📋Releases](https://github.com/eitan743583/LGSC_SC/releases) • [💬 Discord](https://discord.gg/84R9as5pAW) • [📋 WEB](https://smokey2922.github.io/LGSC-Scanner/) • [⬇ Download ZIP](https://github.com/Smokey2922/LGSC_SC/releases/download/v1.1/Scanner.zip)
+[📋Releases](https://github.com/eitan743583/LGSC_SC/releases) • [💬 Discord](https://discord.gg/84R9as5pAW) • [📋 WEB](https://lgsc.onrender.com) • [⬇ Download ZIP](https://github.com/Smokey2922/LGSC_SC/releases/download/v1.1/Scanner.zip)
 </div>
 
 ---
@@ -25,7 +25,7 @@
 
 > **Requires:** Windows 10/11 64-bit
 
-1. Download `LGSC.exe` from [Releases](../../releases/latest)  Or From [📋 WEB](https://smokey2922.github.io/LGSC-Scanner/)
+1. Download `LGSC.exe` from [Releases](../../releases/latest)  Or From [📋 WEB](https://lgsc.onrender.com)
 2. Run as Administrator
 3. Start using!
 
