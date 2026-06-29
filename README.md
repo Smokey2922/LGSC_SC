@@ -15,8 +15,6 @@ Fast • Modern • Secure
 ![Version](https://img.shields.io/github/v/release/eitan743583/LGSC_SC?style=for-the-badge&color=8B5CF6)
 ![Downloads](https://img.shields.io/github/downloads/eitan743583/LGSC_SC/total?style=for-the-badge&color=22C55E)
 ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4?style=for-the-badge&logo=windows)
-![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python)
-![License](https://img.shields.io/badge/License-Commercial-red?style=for-the-badge)
 
 </p>
 
