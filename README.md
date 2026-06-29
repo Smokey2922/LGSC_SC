@@ -46,27 +46,13 @@ Fast • Modern • Secure
 
 # ✨ Features
 
-✅ Modern Dark UI
+✅ Modern UI
 
-✅ Extremely Fast Scan
-
-✅ Detects Executed Files
+✅ Fast Scan
 
 ✅ EXE / MSI / BAT / CMD / PS1 / PY Support
 
-✅ Suspicious File Detection
-
 ✅ File Search
-
-✅ Hardware Locked License
-
-✅ Automatic Updates
-
-✅ Discord Integration
-
-✅ Secure Communication
-
-✅ Lightweight
 
 ---
 
