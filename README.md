@@ -3,7 +3,7 @@
 
 <div align="center">
 
-![Scanner](https://img.shields.io/badge/Scanner-v1.1-B46FFF?style=for-the-badge\&logo=windows\&logoColor=white)
+![Scanner](https://img.shields.io/badge/Scanner-v1.0.1-B46FFF?style=for-the-badge\&logo=windows\&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)
 
