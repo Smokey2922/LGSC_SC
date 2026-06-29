@@ -1,73 +1,225 @@
-<img width="1360" height="784" alt="Gemini_Generated_Image_tmgo8xtmgo8xtmgo(1)(1)" src="https://github.com/user-attachments/assets/7cac0e16-4939-48a6-9040-4737b780cedc" />
-# ⚡ Scanner
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7cac0e16-4939-48a6-9040-4737b780cedc" width="100%">
+</p>
 
-<div align="center">
+<h1 align="center">⚡ LGSC Scanner</h1>
 
-![Scanner](https://img.shields.io/badge/Scanner-v1.1-B46FFF?style=for-the-badge&logo=windows&logoColor=white)
-![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+<p align="center">
+Powerful Windows File History Scanner
+<br>
+Fast • Modern • Secure
+</p>
 
-**LGSC - Files Scanner**
+<p align="center">
 
-[📋Releases](https://github.com/eitan743583/LGSC_SC/releases) • [💬 Discord](https://discord.gg/84R9as5pAW) • [📋 WEB](https://lgsc.onrender.com) • [⬇ Download ZIP](https://github.com/Smokey2922/LGSC_SC/releases/download/v1.1/Scanner.zip)
-</div>
+![Version](https://img.shields.io/github/v/release/eitan743583/LGSC_SC?style=for-the-badge&color=8B5CF6)
+![Downloads](https://img.shields.io/github/downloads/eitan743583/LGSC_SC/total?style=for-the-badge&color=22C55E)
+![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4?style=for-the-badge&logo=windows)
+![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python)
+![License](https://img.shields.io/badge/License-Commercial-red?style=for-the-badge)
 
----
+</p>
 
-## 📸 Preview
+<p align="center">
 
-> Scanner shows every file that ever ran on your PC — EXE, PY, PS1, BAT and more
->
-> 
----
+<a href="https://github.com/eitan743583/LGSC_SC/releases">
+<img src="https://img.shields.io/badge/⬇_Download-Latest_Release-7C3AED?style=for-the-badge">
+</a>
 
-## 📥 Download
+<a href="https://discord.gg/84R9as5pAW">
+<img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord">
+</a>
 
-> **Requires:** Windows 10/11 64-bit
+<a href="https://lgsc.onrender.com">
+<img src="https://img.shields.io/badge/Web-Official-10B981?style=for-the-badge">
+</a>
 
-1. Download `LGSC.exe` from [Releases](../../releases/latest)  Or From [📋 WEB](https://lgsc.onrender.com)
-2. Run as Administrator
-3. Start using!
-
----
-
-------------------------------------------------------------------
-
- Join our [Discord Server](https://discord.gg/84R9as5pAW)
-
----
-
-## 🖥 Requirements
-
-- Windows 10 / 11 (64-bit)
-- Internet connection
-- Run as Administrator
+</p>
 
 ---
 
-## ❓ FAQ
+# 🚀 About
 
-**Q: Why does antivirus flag it?**
-A: Scanner reads Windows Files and history — antivirus may flag it as suspicious. Add it to exclusions.
+**LGSC Scanner** is a professional Windows application that analyzes Windows execution history and displays applications that have previously been launched on the system.
 
-**Q: Can I use it on multiple PCs?**
-A: No — each license is tied to one PC
-
-**Q: How do I get support?**
-A: Join our [Discord](https://discord.gg/84R9as5pAW).
+Built with a modern interface, fast scanning engine and an intuitive design, LGSC Scanner helps users review execution history quickly and efficiently.
 
 ---
 
-## ⚠️ Terms of Service
+# ✨ Features
 
-1. License is tied to one PC — not transferable without approval
-2. Updates provided at owner's discretion
-3. Violation of terms results in immediate license revocation
-4. Support via Discord only
+✅ Modern Dark UI
+
+✅ Extremely Fast Scan
+
+✅ Detects Executed Files
+
+✅ EXE / MSI / BAT / CMD / PS1 / PY Support
+
+✅ Suspicious File Detection
+
+✅ File Search
+
+✅ Hardware Locked License
+
+✅ Automatic Updates
+
+✅ Discord Integration
+
+✅ Secure Communication
+
+✅ Lightweight
 
 ---
 
-<div align="center">
+# 📸 Screenshots
 
-**[Join Discord](https://discord.gg/84R9as5pAW)**  •  **[Download](https://github.com/Smokey2922/LGSC_SC/releases/download/v1.1/LGSC.zip)** 
-</div>
+## Main Window
+
+<img src="YOUR_SCREENSHOT">
+
+---
+
+## Scan Results
+
+<img src="YOUR_SCREENSHOT">
+
+---
+
+## File Information
+
+<img src="YOUR_SCREENSHOT">
+
+---
+
+# ⚙ Supported File Types
+
+| Type | Supported |
+|------|-----------|
+| EXE | ✅ |
+| MSI | ✅ |
+| BAT | ✅ |
+| CMD | ✅ |
+| PS1 | ✅ |
+| PY | ✅ |
+| DLL | ✅ |
+| LNK | ✅ |
+
+---
+
+# 📦 Installation
+
+## 1.
+
+Download the latest release
+
+https://github.com/eitan743583/LGSC_SC/releases/latest
+
+## 2.
+
+Extract the ZIP
+
+## 3.
+
+Run
+
+```
+LGSC.exe
+```
+
+Administrator privileges are recommended.
+
+---
+
+# 💻 Requirements
+
+- Windows 10
+- Windows 11
+- x64 System
+- Internet Connection
+
+---
+
+# 🔒 Security
+
+LGSC Scanner includes multiple security mechanisms:
+
+- Encrypted communication
+- Hardware locked license
+- Automatic integrity validation
+- Protected configuration
+- Online verification
+
+---
+
+# ❓ FAQ
+
+## Why does Windows Defender show a warning?
+
+Since LGSC Scanner reads Windows execution history and is distributed independently, SmartScreen or antivirus software may display a warning until the application builds reputation.
+
+---
+
+## Is internet required?
+
+Yes.
+
+Internet access is required for authentication, license validation and update checks.
+
+---
+
+## Can I transfer my license?
+
+Licenses are linked to a single computer.
+
+Contact support if you need to migrate your license.
+
+---
+
+## Where can I get support?
+
+Discord Server
+
+https://discord.gg/84R9as5pAW
+
+---
+
+# 🛣 Roadmap
+
+- [x] Modern UI
+- [x] Online Login
+- [x] Automatic Updates
+- [x] File Search
+- [x] Better Scan Engine
+- [ ] Export Results
+- [ ] Cloud Backup
+- [ ] Themes
+- [ ] Scan Statistics
+
+---
+
+# 📊 Project Status
+
+🟢 Active Development
+
+New features and improvements are released regularly.
+
+---
+
+# ❤️ Community
+
+Discord
+
+Website
+
+GitHub Releases
+
+---
+
+<p align="center">
+
+Made with ❤️ by LGSC
+
+⭐ If you like this project, consider leaving a star!
+
+</p>
