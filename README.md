@@ -31,6 +31,19 @@
 
 ---
 
+✨ Features
+Feature	Description
+🧹 Deep Scan	Scans system paths, AppData, Registry, and Temp folders
+🗑 Clean Uninstall	Removes apps and every trace they leave behind
+📊 Log Viewer	See exactly what was found — deleted files, existing files, unknown entries
+🔍 Smart Filter	Filter by status, date, file type, and more
+📄 PDF Export	Export full scan reports to PDF
+🔒 Private & Local	Runs entirely on your machine. Nothing is uploaded
+⚡ Fast Scan	Scans hundreds of entries in seconds
+🛡 Anti-Cheat Aware	Detects leftover anti-cheat files (EAC, BattlEye, Vanguard)
+🔄 Auto Update	Silent background updates — always on the latest version
+🎨 Modern UI	Dark theme, smooth animations, built for Windows 10/11
+
 ---
 
 Join our [Discord Server](https://discord.gg/84R9as5pAW)
