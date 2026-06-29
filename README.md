@@ -1,16 +1,16 @@
-[Uploading README(4).md…]()
 <img width="1360" height="784" alt="Gemini_Generated_Image_tmgo8xtmgo8xtmgo(1)(1)" src="https://github.com/user-attachments/assets/7cac0e16-4939-48a6-9040-4737b780cedc" />
 # ⚡ Scanner
 
 <div align="center">
 
-![Scanner](https://img.shields.io/badge/Scanner-v1.1-B46FFF?style=for-the-badge&logo=windows&logoColor=white)
-![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Scanner](https://img.shields.io/badge/Scanner-v1.1-B46FFF?style=for-the-badge\&logo=windows\&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)
 
 **LGSC - Files Scanner**
 
 [📋Releases](https://github.com/eitan743583/LGSC_SC/releases) • [💬 Discord](https://discord.gg/84R9as5pAW) • [📋 WEB](https://lgsc.onrender.com) • [⬇ Download ZIP](https://github.com/Smokey2922/LGSC_SC/releases/download/v1.1/Scanner.zip)
+
 </div>
 
 ---
@@ -18,8 +18,7 @@
 ## 📸 Preview
 
 > Scanner shows every file that ever ran on your PC — EXE, PY, PS1, BAT and more
->
-> 
+
 ---
 
 ## 📥 Download
@@ -32,17 +31,17 @@
 
 ---
 
-------------------------------------------------------------------
+---
 
- Join our [Discord Server](https://discord.gg/84R9as5pAW)
+Join our [Discord Server](https://discord.gg/84R9as5pAW)
 
 ---
 
 ## 🖥 Requirements
 
-- Windows 10 / 11 (64-bit)
-- Internet connection
-- Run as Administrator
+* Windows 10 / 11 (64-bit)
+* Internet connection
+* Run as Administrator
 
 ---
 
@@ -70,5 +69,6 @@ A: Join our [Discord](https://discord.gg/84R9as5pAW).
 
 <div align="center">
 
-**[Join Discord](https://discord.gg/84R9as5pAW)**  •  **[Download](https://github.com/Smokey2922/LGSC_SC/releases/download/v1.1/LGSC.zip)** 
+**[Join Discord](https://discord.gg/84R9as5pAW)**  •  **[Download](https://github.com/Smokey2922/LGSC_SC/releases/download/v1.1/LGSC.zip)**
+
 </div>
