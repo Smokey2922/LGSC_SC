@@ -42,8 +42,6 @@ Fast • Modern • Secure
 
 **LGSC Scanner** is a professional Windows application that analyzes Windows execution history and displays applications that have previously been launched on the system.
 
-Built with a modern interface, fast scanning engine and an intuitive design, LGSC Scanner helps users review execution history quickly and efficiently.
-
 ---
 
 # ✨ Features
