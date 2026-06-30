@@ -1,10 +1,10 @@
-<img width="1360" height="784" alt="Gemini_Generated_Image_tmgo8xtmgo8xtmgo(1)(1)" src="https://github.com/user-attachments/assets/7cac0e16-4939-48a6-9040-4737b780cedc" />
+<img width="1633" height="963" alt="fc5de9c7-4ba6-4fae-a975-c4836241eaf8" src="https://github.com/user-attachments/assets/e2b6b60b-181b-43dc-8270-bdf356dfc924" />
 # ⚡ Scanner
 
 <div align="center">
 
 ![Scanner](https://img.shields.io/badge/Scanner-v1.0.1-B46FFF?style=for-the-badge\&logo=windows\&logoColor=white)
-<img width="1633" height="963" alt="fc5de9c7-4ba6-4fae-a975-c4836241eaf8" src="https://github.com/user-attachments/assets/88199897-e476-4959-8b09-e94fa81c3787" />
+![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)
 
 **LGSC - Files Scanner**
