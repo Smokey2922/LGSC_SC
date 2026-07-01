@@ -69,6 +69,6 @@ A: Join our [Discord](https://discord.gg/84R9as5pAW).
 
 <div align="center">
 
-**[Join Discord](https://discord.gg/84R9as5pAW)**  •  **[Download](https://github.com/Smokey2922/LGSC_SC/releases/download/v1.1/LGSC.zip)**
+**[Join Discord](https://discord.gg/84R9as5pAW)**
 
 </div>
