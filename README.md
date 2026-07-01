@@ -9,7 +9,7 @@
 
 **LGSC - Files Scanner**
 
-[📋Releases](https://github.com/eitan743583/LGSC_SC/releases) • [💬 Discord](https://discord.gg/84R9as5pAW) • [📋 WEB](https://lgsc.onrender.com) • [⬇ Download ZIP](https://github.com/Smokey2922/LGSC_SC/releases/download/v1.1/Scanner.zip)
+[📋Releases](https://github.com/eitan743583/LGSC_SC/releases) • [💬 Discord](https://discord.gg/84R9as5pAW) • [📋 WEB](https://lgsc.onrender.com) • [⬇ Download ZIP](https://github.com/Smokey2922/LGSC_SC/releases/download/v1.0.2/Scanner.zip)
 
 </div>
 
