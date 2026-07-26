@@ -6,7 +6,7 @@
 ![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)
 
 
-[📋Releases](https://github.com/eitan743583/LGSC_SC/releases) • [💬 Discord](https://discord.gg/84R9as5pAW) • [📋 WEB](https://lgsc.onrender.com) • [⬇ Download ZIP](https://github.com/Smokey2922/LGSC_SC/releases/download/v1.0.1/Scanner.zip)
+[📋Releases](https://github.com/Smokey2922/SCLGO/releases) • [💬 Discord](https://discord.gg/84R9as5pAW) • [📋 WEB](https://lgsc.onrender.com) • [⬇ Download ZIP](https://github.com/Smokey2922/SCLGO/releases/download/v1.0.1/Scanner.zip)
 
 </div>
 
