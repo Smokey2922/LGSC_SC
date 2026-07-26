@@ -38,8 +38,6 @@ Join our [Discord Server](https://discord.gg/84R9as5pAW)
 
 * Windows 10 / 11 (64-bit)
 * Internet connection
-* Run as Administrator
-
 ---
 
 ## ❓ FAQ
