@@ -14,7 +14,7 @@
 
 ## 📸 Preview
 
-> Scanner shows every file that ever ran on your PC — EXE, PY, PS1, BAT and more
+> SCLGO shows every file that ever ran on your PC — EXE, PY, PS1, BAT and more
 
 ---
 
@@ -23,7 +23,7 @@
 > **Requires:** Windows 10/11 64-bit
 
 1. Download `exe` from [Releases](../../releases/latest)  Or From [📋 WEB](https://lgsc.onrender.com)
-2. Run as Administrator
+2. Run
 3. Start using!
 
 ---
