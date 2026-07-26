@@ -1,12 +1,12 @@
 
 <div align="center">
 
-![Scanner](https://img.shields.io/badge/Scanner-v1.0.1-B46FFF?style=for-the-badge\&logo=windows\&logoColor=white)
+![Scanner](https://img.shields.io/badge/Scanner-v1.0.2-B46FFF?style=for-the-badge\&logo=windows\&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)
 
 
-[📋Releases](https://github.com/Smokey2922/SCLGO/releases) • [💬 Discord](https://discord.gg/84R9as5pAW) • [📋 WEB](https://lgsc.onrender.com) • [⬇ Download ZIP](https://github.com/Smokey2922/SCLGO/releases/download/v1.0.1/Scanner.zip)
+[📋Releases](https://github.com/Smokey2922/SCLGO/releases) • [💬 Discord](https://discord.gg/84R9as5pAW) • [📋 WEB](https://lgsc.onrender.com) • [⬇ Download ZIP](https://github.com/Smokey2922/SCLGO/releases/download/v1.0.2/Scanner.zip)
 
 </div>
 
