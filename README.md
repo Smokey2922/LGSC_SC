@@ -1,4 +1,3 @@
-# ⚡ Scanner
 
 <div align="center">
 
