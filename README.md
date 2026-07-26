@@ -1,4 +1,3 @@
-<img width="1633" height="963" alt="fc5de9c7-4ba6-4fae-a975-c4836241eaf8" src="https://github.com/user-attachments/assets/e2b6b60b-181b-43dc-8270-bdf356dfc924" />
 # ⚡ Scanner
 
 <div align="center">
