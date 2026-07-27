@@ -23,7 +23,7 @@
 
 > **Requires:** Windows 10/11 64-bit
 
-1. Download `exe` from [Releases](../../releases/latest)  Or From [📋 WEB](sclgo.onrender.com )
+1. Download `exe` from [Releases](../../releases/latest)  Or From [📋 WEB](https://sclgo.onrender.com )
 2. Run
 3. Start using!
 
